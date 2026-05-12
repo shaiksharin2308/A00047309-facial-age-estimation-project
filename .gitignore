@@ -1,0 +1,33 @@
+# Kaggle credentials
+kaggle.json
+
+# Data and generated files
+/content/
+data/
+dataset/
+facial_age_dataset/
+*.zip
+*.csv
+
+# Model files and checkpoints
+*.keras
+*.h5
+*.ckpt
+models/
+checkpoints/
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# System files
+.DS_Store
+Thumbs.db
