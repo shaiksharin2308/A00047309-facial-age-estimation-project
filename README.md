@@ -51,7 +51,7 @@ Recommended order:
 3. 03_part3_autoencoder_transfer_backbone_colab.ipynb
 4. 04_demo_load_models_and_test_colab.ipynb
 
-GPU runtime is recommended for the training notebooks.
+
 
 ## Requirements
 
